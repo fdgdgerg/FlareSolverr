@@ -1,48 +1,64 @@
 [submodule "Flares/FlareSolverr1"]
 	path = Flares/FlareSolverr1
 	url = https://github.com/fdgdgerg/FlareSolverr.git
+  branch = Flare1
 [submodule "Flares/FlareSolverr2"]
 	path = Flares/FlareSolverr2
 	url = https://github.com/fdgdgerg/FlareSolverr.git
+  branch = Flare2
 [submodule "Flares/FlareSolverr3"]
 	path = Flares/FlareSolverr3
 	url = https://github.com/fdgdgerg/FlareSolverr.git
+  branch = Flare3
 [submodule "Flares/FlareSolverr4"]
 	path = Flares/FlareSolverr4
 	url = https://github.com/fdgdgerg/FlareSolverr.git
+  branch = Flare4
 [submodule "Flares/FlareSolverr5"]
 	path = Flares/FlareSolverr5
 	url = https://github.com/fdgdgerg/FlareSolverr.git
+  branch = Flare5
 [submodule "Flares/FlareSolverr6"]
 	path = Flares/FlareSolverr6
 	url = https://github.com/fdgdgerg/FlareSolverr.git
+  branch = Flare6
 [submodule "Flares/FlareSolverr7"]
 	path = Flares/FlareSolverr7
 	url = https://github.com/fdgdgerg/FlareSolverr.git
+  branch = Flare7
 [submodule "Flares/FlareSolverr8"]
 	path = Flares/FlareSolverr8
 	url = https://github.com/fdgdgerg/FlareSolverr.git
+  branch = Flare8
 [submodule "Flares/FlareSolverr9"]
 	path = Flares/FlareSolverr9
 	url = https://github.com/fdgdgerg/FlareSolverr.git
+  branch = Flare9
 [submodule "Flares/FlareSolverr10"]
 	path = Flares/FlareSolverr10
 	url = https://github.com/fdgdgerg/FlareSolverr.git
+  branch = Flare10
 [submodule "Flares/FlareSolverr11"]
 	path = Flares/FlareSolverr11
 	url = https://github.com/fdgdgerg/FlareSolverr.git
+  branch = Flare11
 [submodule "Flares/FlareSolverr12"]
 	path = Flares/FlareSolverr12
 	url = https://github.com/fdgdgerg/FlareSolverr.git
+  branch = Flare12
 [submodule "Flares/FlareSolverr13"]
 	path = Flares/FlareSolverr13
 	url = https://github.com/fdgdgerg/FlareSolverr.git
+  branch = Flare13
 [submodule "Flares/FlareSolverr14"]
 	path = Flares/FlareSolverr14
 	url = https://github.com/fdgdgerg/FlareSolverr.git
+  branch = Flare14
 [submodule "Flares/FlareSolverr15"]
 	path = Flares/FlareSolverr15
 	url = https://github.com/fdgdgerg/FlareSolverr.git
+  branch = Flare15
 [submodule "Flares/FlareSolverr16"]
 	path = Flares/FlareSolverr16
 	url = https://github.com/fdgdgerg/FlareSolverr.git
+  branch = Flare16
